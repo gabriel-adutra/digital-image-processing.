@@ -1,4 +1,4 @@
-##  projetinhos_ml_dl_pdi
+##  digital-image-processing
 
 
-*   Projetinhos para prática de técnicas de processamento digital de imagens, machine learning e deep learning.
+*   Mini projects with digital image processing, machine learning and deep learning techniques.
