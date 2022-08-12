@@ -1,10 +1,7 @@
 
-
-
-
-*	Esse código carrega uma imagem com opencv e converte-a de BGR para RGB
-*	Usa o algoritmo k-means para extrair as cores mais frequentes na imagem.
-*	Converte as cores mais frequentes para o formato de numero hexadecimal e salva essas cores em um arquivo txt.
-*	Imprime a imagem original em BGR e imprime a imagem convertida em RGB.
-*	Imprime o K-means mostrando 4 centróides.
    
+  *  This code loads an image with opencv and converts it from BGR to RGB
+  * It uses the k-means algorithm to extract the most frequent colors in the image.
+  * Converts the most frequent colors to hexadecimal number format and saves these colors in a txt file.
+  *  Prints the original image in BGR and prints the converted image in RGB.
+  * Print K-means showing 4 centroids.
